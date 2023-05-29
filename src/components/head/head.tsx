@@ -18,7 +18,7 @@ export const Head = component$(() => {
 
 			<link rel="manifest" href="/manifest.json" />
 			<link rel="apple-touch-icon" href="/logo-192-192.png" />
-			<link rel="preconnect" href="https://demo.vendure.io" />
+			<link rel="preconnect" href="https://demo.homepesa.org" />
 			<link rel="canonical" href={loc.url.toString()} />
 
 			{head.meta.map((m, key) => (
@@ -33,7 +33,7 @@ export const Head = component$(() => {
 				<style key={key} {...s.props} dangerouslySetInnerHTML={s.style} />
 			))}
 
-			<meta name="description" content="Vendure Qwik Storefront" />
+			<meta name="description" content="Acloud-Bank iShop" />
 		</head>
 	);
 });
