@@ -1,12 +1,12 @@
 {
 	"$schema": "https://json.schemastore.org/web-manifest-combined.json",
-	"name": "Vendure Qwik Storefront",
-	"short_name": "Qwik Storefront",
+	"name": "Modern Shop",
+	"short_name": "Modern Shop",
 	"start_url": ".",
 	"display": "standalone",
-	"theme_color": "#1D4ED8",
+	"theme_color": "#0c08a2",
 	"background_color": "#fff",
-	"description": "A Qwik version of the Vendure Storefront.",
+	"description": "Smart Shop",
 	"icons": [
 		{
 			"src": "logo-512-512.png",
