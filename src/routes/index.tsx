@@ -21,26 +21,26 @@ export default component$(() => {
 				<div class="relative max-w-3xl mx-auto py-32 px-6 flex flex-col items-center text-center sm:py-64 lg:px-0">
 					<div class="relative bg-zinc-800 bg-opacity-0 rounded-lg p-0">
 						<h1 class="text-6xl text-transparent bg-clip-text font-extrabold tracking-normal lg:text-6xl bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-600">
-							{$localize`Vendure Qwik Starter`}
+							{$localize`AcloudBank Shop`}
 						</h1>
 					</div>
 
 					<p class="mt-4 text-2xl text-white">
-						{$localize`A headless commerce storefront starter kit built with`}{' '}
+						{$localize`Our Crypto wallets are`}{' '}
 						<a
-							href="https://www.vendure.io"
+							href="https://wallet.acloudbank.com/"
 							target="_blank"
 							class="text-blue-300 hover:text-blue-500"
 						>
-							Vendure
+							acloudbank.com
 						</a>{' '}
 						&{' '}
 						<a
-							href="https://qwik.builder.io/"
+							href="https://acloudbank.com/"
 							target="_blank"
 							class="text-[#4092ff] hover:text-red-500"
 						>
-							Qwik
+							wallet.acloudbank.com
 						</a>
 					</p>
 				</div>

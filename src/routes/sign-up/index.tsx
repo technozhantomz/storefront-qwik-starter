@@ -64,8 +64,8 @@ export default component$(() => {
 							</p>
 						) : (
 							<p>
-								Account registration is not supported by the demo Vendure instance. In order to use
-								it, please connect to your own local / production instance.
+								Account registration is not supported in demo instance. In order to use
+								it, please connect to production instance.
 							</p>
 						)}
 					</div>

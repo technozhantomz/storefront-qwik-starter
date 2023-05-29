@@ -52,13 +52,13 @@ export default component$(() => {
 						<div class="flex justify-between items-center w-full">
 							<div>
 								<p class="hidden sm:block">
-									{$localize`Exclusive: Get your own`}{' '}
+									{$localize`Link to ->`}{' '}
 									<a
-										href="https://github.com/vendure-ecommerce/storefront-qwik-starter"
+										href="https://acloudbank.com"
 										target="_blank"
 										class="underline"
 									>
-										{$localize`FREE storefront starter kit`}
+										{$localize`Acloudbank.com`}
 									</a>
 								</p>
 							</div>

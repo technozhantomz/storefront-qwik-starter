@@ -35,7 +35,7 @@ export default component$(() => {
 					<div class="mb-6 bg-yellow-50 border border-yellow-400 text-yellow-800 rounded p-4 text-center text-sm">
 						<p>Demo credentials</p>
 						<p>
-							Email address: <span class="font-bold">test@vendure.io</span>
+							Email address: <span class="font-bold">test@acloudbank.com</span>
 						</p>
 						<p>
 							Password: <span class="font-bold">test</span>
